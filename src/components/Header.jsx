@@ -1,7 +1,6 @@
-// src/components/Header.js
 import React from "react";
 import { useSelector } from "react-redux";
-// import DarkModeToggle from "./DarkModeToggle";
+
 import PersistenceIndicator from "./PersistenceIndicator";
 
 export default function Header() {
